@@ -1,4 +1,4 @@
-package com.viniciuscerqueira.usuario.infrastructure.business.dto;
+package com.viniciuscerqueira.usuario.business.dto;
 
 
 import lombok.*;

@@ -1,9 +1,9 @@
-package com.viniciuscerqueira.usuario.infrastructure.business.converter;
+package com.viniciuscerqueira.usuario.business.converter;
 
 
-import com.viniciuscerqueira.usuario.infrastructure.business.dto.EnderecoDTO;
-import com.viniciuscerqueira.usuario.infrastructure.business.dto.TelefoneDTO;
-import com.viniciuscerqueira.usuario.infrastructure.business.dto.UsuarioDTO;
+import com.viniciuscerqueira.usuario.business.dto.EnderecoDTO;
+import com.viniciuscerqueira.usuario.business.dto.TelefoneDTO;
+import com.viniciuscerqueira.usuario.business.dto.UsuarioDTO;
 import com.viniciuscerqueira.usuario.infrastructure.entity.Endereco;
 import com.viniciuscerqueira.usuario.infrastructure.entity.Telefone;
 import com.viniciuscerqueira.usuario.infrastructure.entity.Usuario;
